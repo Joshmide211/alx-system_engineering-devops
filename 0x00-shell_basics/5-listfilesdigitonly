@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod u+s 5-listfilesdigitonly
+chmod g+s 5-listfilesdigitonly
+ls -la
